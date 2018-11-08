@@ -1,0 +1,6 @@
+git status
+	Verifica o que há de novo e diferenças
+git add .
+	Adiciona todos novos arquivos para subir ao git
+git commit -am "Insira aqui o texto sobre o que deseja commitar"
+	Faz o upload to git com o comentário que você inserir entre as aspas.
